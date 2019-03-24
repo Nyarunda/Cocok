@@ -1,0 +1,72 @@
+.navbar-brand {
+    font-size: 1.6rem;
+}
+.site {
+    background-color: #008000!important;
+}
+.sitename {
+    color:white;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 300;
+}
+.sitename span {
+    color: #001a00!important;
+    font-weight: 700;
+}
+thead {
+    color: white;
+}
+.card {
+    position: relative;
+}
+.card .favorite-btn {
+    position: absolute;
+    right: -18px;
+    top: 18px;
+    background-color: white;
+    width: 35px!important;
+    height: 35px;
+    border-radius: 50%;
+    font-size: 22px;
+    padding-left: 10px;
+    color: #29ABE0;
+}
+
+.is-favorite {
+    background-color:#29ABE0!important;
+    color: white!important;
+}
+
+
+h1 {
+    font-family: 'Raleway', sans-serif;
+    font-weight: 300;
+    font-size: 1.6rem;
+}
+.card-title {
+    font-family: 'Raleway', sans-serif;
+    font-weight: 300;
+    font-size: 1.2rem;
+}
+.btn {
+    width:100%;
+}
+footer p{
+    color:white!important;
+}
+/*Modal CSS*/
+div.modal-header h2.modal-title {
+    text-align: center;
+}
+div.modal-body{
+    background-color: #ccffe6;
+}
+
+div.modal-body h3.alert.alert-success {
+    text-align: center;
+    background-color: #29ABE0;
+    color: #000000;
+}
+div.modal-footer button.btn.btn-secondary {
+    background-color: #29ABE0;
+}
